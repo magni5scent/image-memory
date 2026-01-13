@@ -72,6 +72,7 @@ img {
   width: fit-content;
   height: 0 auto;
   color: white;
+  align-items: center;
 
   /* display: block; */
 }
@@ -85,7 +86,7 @@ img {
   transition: transform 0.2s;
 }
 
-@media (max-width:425px) {
+@media (max-width: 425px) {
   .container {
     grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
     gap: 1em;
