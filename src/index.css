@@ -18,6 +18,7 @@ h1,
 p {
   text-align: center;
   color: aliceblue;
+  font-size: 1.6rem;
 }
 
 .spread {
@@ -28,6 +29,7 @@ p {
   display: inline-block;
   margin: 15px;
   padding: 15px;
+  
 }
 
 #bestScore,
