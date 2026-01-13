@@ -71,6 +71,7 @@ img {
 .card {
   width: fit-content;
   height: 0 auto;
+  color: white;
 
   /* display: block; */
 }
